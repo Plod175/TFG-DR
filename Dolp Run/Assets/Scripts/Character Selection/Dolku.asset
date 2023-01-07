@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8393fdd8e4093493588f0803f3be72ac, type: 3}
+  m_Name: Dolku
+  m_EditorClassIdentifier: 
+  characterSel: {fileID: 8923710831510703081, guid: bd4a5496c89dc48ee94dcdb5e82e015d, type: 3}
+  image: {fileID: 1195252553386406652, guid: 11a1df032e3424e49ae58905fb3ba157, type: 3}
+  charName: Dolku

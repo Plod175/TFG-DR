@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 11a1df032e3424e49ae58905fb3ba157
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1195252553386406652
+    second: Goku dolp idle_0
+  - first:
+      213: 8703424831867559737
+    second: Goku dolp idle_1
+  - first:
+      213: 3681074208901432196
+    second: Goku dolp idle_2
+  - first:
+      213: -1969685363763202533
+    second: Goku dolp idle_3
+  - first:
+      213: 5627113971945332538
+    second: Goku dolp idle_4
+  - first:
+      213: 1405607031113453331
+    second: Goku dolp idle_5
+  - first:
+      213: 1055729441827427892
+    second: Goku dolp idle_6
+  - first:
+      213: 285442981705932468
+    second: Goku dolp idle_7
+  - first:
+      213: 1773081016401394251
+    second: Goku dolp idle_8
+  - first:
+      213: -671730633817205614
+    second: Goku dolp idle_9
+  - first:
+      213: 7428338322089415124
+    second: Goku dolp idle_10
+  - first:
+      213: 7226711662075281306
+    second: Goku dolp idle_11
+  - first:
+      213: -6149552271032371198
+    second: Goku dolp idle_12
+  - first:
+      213: 6673405825457787859
+    second: Goku dolp idle_13
+  - first:
+      213: 928922630795339563
+    second: Goku dolp idle_14
+  - first:
+      213: -3128709587476259566
+    second: Goku dolp idle_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goku dolp idle_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 441
+        width: 249
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2b9755dd3669010800000000000000
+      internalID: 1195252553386406652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 438
+        width: 255
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f97c895c6c8c870800000000000000
+      internalID: 8703424831867559737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_2
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 441
+        width: 261
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4830c656d7dc51330800000000000000
+      internalID: 3681074208901432196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_3
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 440
+        width: 272
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16bb95f8954aa4e0800000000000000
+      internalID: -1969685363763202533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_4
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 432
+        width: 277
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f50700856871e40800000000000000
+      internalID: 5627113971945332538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_5
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 434
+        width: 287
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f0f47c528b18310800000000000000
+      internalID: 1405607031113453331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_6
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 432
+        width: 290
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4369b077554b6ae00800000000000000
+      internalID: 1055729441827427892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_7
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 432
+        width: 285
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bed53821e816f300800000000000000
+      internalID: 285442981705932468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 287
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4af79c4acf3b9810800000000000000
+      internalID: 1773081016401394251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 26
+        width: 285
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294d39a2c888da6f0800000000000000
+      internalID: -671730633817205614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 24
+        width: 290
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d19f8fc852c61760800000000000000
+      internalID: 7428338322089415124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_11
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 25
+        width: 287
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f7b28c7ff6a4460800000000000000
+      internalID: 7226711662075281306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_12
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 25
+        width: 277
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2083b6d8ac668aaa0800000000000000
+      internalID: -6149552271032371198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_13
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 30
+        width: 272
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d31f64bd33bc9c50800000000000000
+      internalID: 6673405825457787859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_14
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 32
+        width: 261
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27a068063234ec00800000000000000
+      internalID: 928922630795339563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku dolp idle_15
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 30
+        width: 254
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d5e11f4379494d0800000000000000
+      internalID: -3128709587476259566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Goku dolp idle_8: 1773081016401394251
+      Goku dolp idle_5: 1405607031113453331
+      Goku dolp idle_9: -671730633817205614
+      Goku dolp idle_1: 8703424831867559737
+      Goku dolp idle_6: 1055729441827427892
+      Goku dolp idle_13: 6673405825457787859
+      Goku dolp idle_14: 928922630795339563
+      Goku dolp idle_3: -1969685363763202533
+      Goku dolp idle_12: -6149552271032371198
+      Goku dolp idle_10: 7428338322089415124
+      Goku dolp idle_4: 5627113971945332538
+      Goku dolp idle_0: 1195252553386406652
+      Goku dolp idle_7: 285442981705932468
+      Goku dolp idle_11: 7226711662075281306
+      Goku dolp idle_2: 3681074208901432196
+      Goku dolp idle_15: -3128709587476259566
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
